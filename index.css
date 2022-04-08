@@ -11,3 +11,13 @@ button{
      width: 100px;
      height: 40px;
 }
+.row{
+    padding:30px;
+    border:2px solid gray;
+    border-radius: 10px;
+}
+.colorful{
+    color:blue; 
+    font-weight: 700;
+    
+}

@@ -29,7 +29,7 @@ const mealButton=(meal)=>{
 				</ul>
 			</div>
 			<div class="columns seven">
-				<h4>${meal.strMeal}</h4>
+				<h4 class="colorful">${meal.strMeal}</h4>
 				<p>${meal.strInstructions}</p>
 			</div>
 		</div>
