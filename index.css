@@ -1,0 +1,13 @@
+.mealdiv{
+    margin:1px auto;
+    text-align:center;
+
+}
+button{
+    color:wheat;
+    background-color:black;
+    border:2px solid green; 
+     border-radius: 4px;
+     width: 100px;
+     height: 40px;
+}
